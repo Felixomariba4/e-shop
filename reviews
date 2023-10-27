@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reviews</title>
+    <link rel="stylesheet" type="text/css" href="full.css">
+
+</head>
+<body>
+    <h1>Testimonials</h1>
+    
+    <h2>What Our Customers Say</h2>
+    <ul>
+        <li>Otumbo's Review</li>
+        <li>Dante's Feedback</li>
+        <li>Jonte's Testimonial</li>
+    </ul>
+
+    <a href="html">Back to Homepage</a>
+</body>
+</html>

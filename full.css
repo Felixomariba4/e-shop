@@ -1,0 +1,51 @@
+/* Reset some default styles to ensure consistent rendering across browsers */
+body, h1, h2, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and font for the body */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the main heading (h1) */
+h1 {
+    background-color: #ab4c07;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style secondary headings (h2) */
+h2 {
+    margin: 20px;
+    font-size: 24px;
+}
+
+/* Style unordered list (ul) */
+ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+}
+
+/* Style list items (li) */
+li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Style links (a) */
+a {
+    text-decoration: none;
+    color: #00ff2a;
+    font-weight: bold;
+    display: block; /* Adds spacing between links and the following content */
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #0056b3;
+}

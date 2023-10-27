@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>products</title>
+    <link rel="stylesheet" type="text/css" href="part.css">
+
+</head>
+<body>
+    <h1>products</h1>
+    
+    <h2>Our e-shop products</h2>
+    <ul>
+        <li><a href="#kitchen electronics">kitchen electronics</a></li>
+        <li><a href="#computer andlaptops">computer andblapttops</a></li>
+        <li><a href="#accessories">Accessories</a></li>
+    </ul>
+    <form action="search-results.html" method="get">
+        <label for="search">Search:</label>
+        <input type="text" id="search" name="q" placeholder="Enter keywords...">
+        <input type="submit" value="Search">
+    </form>
+    <h2 id="kitchen electronics">kitchen electronics</h2>
+    <p>Explore our  kitchen electronics.</p>
+
+   <img src="https://tse2.mm.bing.net/th?id=OIP.SdsMFrxyU6ui22Lu1HbqxAHaFY&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse4.mm.bing.net/th?id=OIP.cRjyjnrokIMV9X-guA-nRQHaE8&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse3.mm.bing.net/th?id=OIP.g1O0XceBU6KclsjUVGIrMQHaHa&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse4.mm.bing.net/th?id=OIP.O3DdZ6wE25LGi6vx5dAwsgHaFp&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse4.mm.bing.net/th?id=OIP.bI8ADLnuRRECa4wK6UmRWAHaFj&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse4.mm.bing.net/th?id=OIP.4_d10snrhor-kWyzmnt1pAHaHa&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse1.mm.bing.net/th?id=OIP.RlDM3vLZ8wI_8bK7hfXN-wHaEO&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse1.mm.bing.net/th?id=OIP.MR_lmJgC_Le7UOopJZ1UUgHaDt&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse4.mm.bing.net/th?id=OIP.qzvW7MMmTOZr-m3ITqiuUgHaIM&pid=Api&P=0&h=180" alt="">
+   <img src="https://tse2.mm.bing.net/th?id=OIP.54GpN63t01gn0hkPXbidxgHaF6&pid=Api&P=0&h=180" alt="">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.U1mgn7MhVlEqq5yRuVi3pAHaFj&pid=Api&P=0&h=180" alt="">
+    <a href="html">Back to homepage</a>
+</body>
+</html>
